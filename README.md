@@ -10,3 +10,5 @@ MobileNetV2 is an architecture which was proposed to classify images with least 
 We have trained MobileNetV2 on a large dataset and have applied the same weights here for the U-Net encoder part. We called the resulting architecture MU-Net and it has shown promising results. 
 
 ![alt text](./MUNetandMobile.png)
+
+![alt text](./U-Net.png)
